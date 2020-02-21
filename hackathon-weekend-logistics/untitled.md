@@ -5,12 +5,16 @@ This schedule is for the organizers but there are key events that the participan
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">2 months prior</th>
-      <th style="text-align:left">Secure space: consider security, A/V, high capacity wi-fi, and live streaming
-        capabilities</th>
+      <th style="text-align:left">Timeframe</th>
+      <th style="text-align:left">To-do</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left">2 months prior</td>
+      <td style="text-align:left">Secure space: consider security, A/V, high capacity wi-fi, and live streaming
+        capabilities</td>
+    </tr>
     <tr>
       <td style="text-align:left">
         <p>1 month</p>
@@ -56,7 +60,8 @@ This schedule is for the organizers but there are key events that the participan
             a bottleneck)</li>
           <li>Create a name tag and list expertise (e.g., design, engineering, hustle,
             marketing, policy, product, research)</li>
-          <li>Beer &amp; wine and light hors d&apos;oeuvres</li>
+          <li>Refreshments (don&apos;t forget non-alcoholic options) and light hors
+            d&apos;oeuvres</li>
         </ul>
       </td>
     </tr>
@@ -134,7 +139,8 @@ This schedule is for the organizers but there are key events that the participan
     </tr>
     <tr>
       <td style="text-align:left">6:15pm</td>
-      <td style="text-align:left">Goofy aerobics and calisthenics session; think Richard Simmons</td>
+      <td style="text-align:left">Invite participants to an optional, lighthearted stretch, deep breathing,
+        or aerobics/calisthenics session; think Richard Simmons</td>
     </tr>
     <tr>
       <td style="text-align:left">6:30pm</td>
@@ -190,6 +196,7 @@ This schedule is for the organizers but there are key events that the participan
         <ul>
           <li>Ambassador gives another spiel about the event</li>
           <li>MC again acknowledges sponsors</li>
+          <li>Optional keynote - try to keep it to 20 min</li>
           <li>Teams come up and give 5 minute presentations</li>
           <li>MC brings everyone up at the end to congratulate the teams</li>
           <li>MC does shout outs to a couple key players of the weekend (participants
@@ -199,3 +206,4 @@ This schedule is for the organizers but there are key events that the participan
     </tr>
   </tbody>
 </table>
+

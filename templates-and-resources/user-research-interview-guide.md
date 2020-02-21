@@ -2,6 +2,8 @@
 
 ## Issue Expert/Participating Organization Interviews - User Study Interview Guide
 
+This guide was composed by volunteers at the Abortion Access Hackathon and is intended to be a starting place for empowering your User Experience volunteers to come up with their own process based on their own experiences. We hope this guide fosters productive discussion on the questions and approaches that best fit your issue area experts and organizers.
+
 ### Overall objective
 
 Get information from issue experts and organizations on: their intended process for conducting their work, their actual process in conducting their work, what the experience of their work is like, how it affects who and how many they can serve etc.  
