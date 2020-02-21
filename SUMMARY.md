@@ -28,6 +28,7 @@
 ## Templates & Resources
 
 * [Template Master Event Document](templates-and-resources/template-master-event-document.md)
+* [Sample Code of Conduct](templates-and-resources/sample-code-of-conduct.md)
 * [Supplies Checklist](templates-and-resources/untitled.md)
 * [User Research Interview Guide](templates-and-resources/user-research-interview-guide.md)
 
