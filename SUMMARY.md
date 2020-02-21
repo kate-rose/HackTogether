@@ -10,6 +10,12 @@
 * [User Interviews = Great Project Ideas](getting-started/user-interviews-project-ideas.md)
 * [Fundraising Tips](getting-started/fundraising-tips.md)
 
+## Hackathon Weekend Logistics
+
+* [Sample Schedule Overview](hackathon-weekend-logistics/untitled.md)
+* [Sample Elevator Pitch Process](hackathon-weekend-logistics/sample-elevator-pitch-process.md)
+* [Tips for Day-of Success](hackathon-weekend-logistics/tips-for-day-of-success.md)
+
 ## Preparing Participating Orgs & Activists
 
 * [Centering Orgs at the Event](preparing-participating-orgs-and-activists/untitled.md)
@@ -18,12 +24,7 @@
 
 * [Planning an Engineering Meetup](preparing-technical-teams/untitled.md)
 
-## Hackathon Weekend Logistics
-
-* [Sample Schedule Overview](hackathon-weekend-logistics/untitled.md)
-* [Sample Elevator Pitch Process](hackathon-weekend-logistics/sample-elevator-pitch-process.md)
-
 ## Templates & Resources
 
-* [Untitled](templates-and-resources/untitled.md)
+* [Supplies Checklist](templates-and-resources/untitled.md)
 
