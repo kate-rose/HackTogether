@@ -11,11 +11,10 @@ description: >-
 By entering in to the \[NAME OF EVENT\] hackathon you agree to abide by this Code of Conduct. Our hackathon is dedicated to providing a harassment-free experience for everyone, regardless of the following:
 
 * gender
-* gender identity and expression
+* physical appearance
 * age
 * sexual orientation
 * disability
-* physical appearance
 * body size
 * race
 * ethnicity
