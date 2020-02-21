@@ -27,6 +27,7 @@
 
 ## Templates & Resources
 
+* [Sample Notice of Photography & Filming](templates-and-resources/sample-notice-of-photography-and-filming.md)
 * [Template Master Event Document](templates-and-resources/template-master-event-document.md)
 * [Sample Code of Conduct](templates-and-resources/sample-code-of-conduct.md)
 * [Supplies Checklist](templates-and-resources/untitled.md)
