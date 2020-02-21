@@ -10,7 +10,7 @@ Sample pre-hackathon user interview process:
 
 1. Let your experience researchers and UX folks lead the way, deputize willing volunteers to lead the UX group and give them independence.
 2. Make intros with participating orgs so volunteers can meet/call to discuss their workflow and areas where they hit friction in trying to get their jobs done.
-3. If possible, provide a study guide to your interviewers with suggested questions to help guide them in their conversations. An example study guide can be found [at this link](https://docs.google.com/document/d/1MhYEEJw9UdX_SUUipZLGSCLl1lQUenl-NiJKUl9pfJk/edit).
+3. If possible, provide a study guide to your interviewers with suggested questions to help guide them in their conversations. An example study guide can be found [at this link](../templates-and-resources/user-research-interview-guide.md).
 4. Distill the key takeaways from your interviews in to a deck that can be distributed to participants at your event.
 5. Add this deck to a folder of resources for all participants to get background on the issue, including your study results, stats, articles, and intersectional issues that affect this problem set.
 

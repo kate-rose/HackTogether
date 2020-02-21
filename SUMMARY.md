@@ -23,8 +23,11 @@
 ## Preparing Technical Teams
 
 * [Planning an Engineering Meetup](preparing-technical-teams/untitled.md)
+* [Engineer Prep Meetup Agenda](preparing-technical-teams/engineer-prep-meetup-agenda.md)
 
 ## Templates & Resources
 
+* [Template Master Event Document](templates-and-resources/template-master-event-document.md)
 * [Supplies Checklist](templates-and-resources/untitled.md)
+* [User Research Interview Guide](templates-and-resources/user-research-interview-guide.md)
 
