@@ -4,7 +4,7 @@ description: 'Guides, tips, and templates for running issue-focused, social good
 
 # HackTogether
 
-## Hosting a Hackathon that Centers the Movement Doing the Work
+## Hosting a Hackathon That Centers Grassroots Movements 
 
 As we close in on the 2020 election, there’s an enormous surge of civic tech enthusiasts and eager volunteer technologists seeking and try to counter the chaos. We today have a lot of opportunities to lift up and build community with the activists, organizers, and organizations that have been laying decades of groundwork on the most important social issues facing the world.
 
