@@ -1,10 +1,15 @@
+---
+description: >-
+  Ensuring your technical attendees are prepared to hit the ground running ahead
+  of time.
+---
+
 # Planning an Engineering Meetup
 
-Meetups for engineers can be a great way to ensure that the day of, you have a crack team of people who know what to expect, and who can help other engineers figure out how to find where they fit in these org projects. An engineer meetup can be a great place to:  
+Meetups for engineers, set about a week in advance, can be a great way to ensure that the day of, you have a crack team of people who know what to expect, and who can help other engineers figure out how to find where they fit in these org projects. An engineer meetup can be a great place to:
 
-
-* Set up repos, Heroku instances, refresh on old skills or learn about developer tools that can make the weekend work easier.
-* Learn about intersectional issues in tech products and events, with a guided discussion by a meetup leader on say, accessibility in design.
+* Set up repos, Heroku instances, refresh on old skills, or learn about developer tools that can make the weekend work easier.
+* Learn about intersectional issues in tech products and events, with a guided discussion by a meetup leader on ex: accessibility in design.
 * Invite participating orgs to do a meet and greet, and talk live about their work and needs.
 * Collaborate on writing a set of guiding code principles that can be distributed to all participants.
 
