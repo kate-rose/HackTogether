@@ -13,7 +13,7 @@ Hackathons can be one way to not only re-center these organizations and their in
 In this guide is a non-exhaustive list of templates and tips on how to run a civic or social issue hackathon. This is just one model that we’ve found helpful in organizing the Abortion Access Hackathons, assisting with the Debug Politics hackathons, and helping to bring social issues in to “regular” hackathons like Ether Hack.
 
 {% hint style="info" %}
-Have suggestions you'd like to add to this collection of open source resources? Open a pull request at the [Hack Together Guide Github](https://github.com/kate-rose/HackTogether).
+Have suggestions you'd like to add to this collection of open source resources? Open an issue at the [Hack Together Guide Github](https://github.com/kate-rose/HackTogether).
 {% endhint %}
 
 
