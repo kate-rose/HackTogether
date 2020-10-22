@@ -27,6 +27,7 @@ Feel free to add more resources here!
 * [https://confluence.sakaiproject.org/display/UX/Ethnographic+Interviews+-+Interviewing+and+Observing+Users](https://confluence.sakaiproject.org/display/UX/Ethnographic+Interviews+-+Interviewing+and+Observing+Users)
 * [http://designresearchtechniques.com/casestudies/semi-structured-interviews/](http://designresearchtechniques.com/casestudies/semi-structured-interviews/)
 * [https://www.interaction-design.org/literature/article/shadowing-in-user-research-do-you-see-what-they-see](https://www.interaction-design.org/literature/article/shadowing-in-user-research-do-you-see-what-they-see)
+* Example video of a User Interview: [https://www.youtube.com/watch?v=Qq3OiHQ-HCU](https://www.youtube.com/watch?v=Qq3OiHQ-HCU)
 
 ## Methodology
 
