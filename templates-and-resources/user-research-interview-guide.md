@@ -44,7 +44,7 @@ Please don’t be shy! List any questions you think will help us understand the 
 
 ### Organizational/stakeholder research questions
 
-These will help us prioritize problems to solve for abortion funds and providers. Which solutions might provide the highest value to the organization?   
+These will help us prioritize problems to solve for movement organizations. Which solutions might provide the highest value to the organization?   
 
 
 * What is your organization’s mission, or highest goal? 
@@ -129,7 +129,7 @@ Please take a look at all the questions listed here, so you have a sense for wha
 * What kind of volunteers do you seek?
   * How many volunteers do you work with?
   * What are the main areas they provide support in? 
-  * What kind of communication is needed to connect volunteers with those seeking abortions? 
+  * What kind of communication is needed to connect volunteers with those seeking your services or support? 
   * What are some problems you encounter in the process of coordinating and managing volunteers? 
 * How easy is it for you to recruit for volunteers, or to organize the work they do? 
   * How do new volunteers find you? 
